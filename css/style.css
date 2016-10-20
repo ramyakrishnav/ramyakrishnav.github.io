@@ -1,0 +1,95 @@
+body
+{
+	font-size: 16px;
+	color: #fff;
+	background-color: #FFFFFF;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav
+{
+	background-color: #696969;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand
+{
+	padding-top: 25px;
+	margin-bottom: 25px;
+}
+
+.navbar-brand h1
+{
+	font-family: 'Lora', serif;
+	color: #0000FF;
+	font-size: 2.8em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+	text-decoration: none;
+}
+
+#nav-list
+{
+	margin-top: 10px;
+}
+
+#nav-list a
+{
+	color: #FE4556;
+	text-align: center;
+}
+
+#nav-list a:hover
+{
+	background-color: #E7E7E7;
+	font-size: 1.5em;
+}
+
+#nav-list a span
+{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar
+{
+	border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle
+{
+	clear: both;
+	margin-top: -30px;
+}
+#menu-title
+{
+	color: #ED2323;
+	font-size: 2.5em;
+}
+#menu-categories
+{
+	background-color: #A9A9A9;
+	padding: 5px 10px 10px;
+	margin-top: 30px;
+}
+#menu-categories:hover
+{
+	background-color: #808080;
+	cursor: pointer;
+}
+#menu-item
+{
+	color: #FF2323;
+}
+#item-content
+{
+	margin-top: 20px;
+}
